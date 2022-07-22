@@ -3,8 +3,8 @@ import NavBar from '../navigation';
 
 export default function Header() {
     return (
-        <div id="headerWrapper" className="container-fluid">
+        <header id="headerWrapper">
             <NavBar />
-        </div>
+        </header>
     )
 }
