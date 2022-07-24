@@ -1,0 +1,79 @@
+{
+    "main": {
+        "name": "Stephen Fields",
+        "occupation": "Full-Stack Web Developer",
+        "description": "I enjoy bringing ideas to life in the browser",
+        "profilePic": "/images/profile_pic.jpg",
+        "email": "sfields0879@gmail.com",
+        "website": "https://seajsfields.com",
+        "resumedownload": "/documents/resume/resume_fields_stephen.pdf",
+        "social": [
+            {
+             "name": "LinkedIn",
+             "url": "https://www.linkedin.com/in/stephenfields879/",
+             "classname": "fa fa-linkedin"
+            },
+            {
+             "name": "facebook",
+             "url": "https://www.facebook.com/stephen.fields.754",
+             "classname": "fa fa-facebook"
+            }
+         ]
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "East Tennessee State University",
+                "degree": "Master of Science, Computer and Information Sciences",
+                "graduated": "May 2013",
+                "gpa": "3.53"
+            },
+            {
+                "school": "East Tennessee State University",
+                "degree": "Bachelor of Science, Computer and Information Sciences",
+                "graduated": "May 2007",
+                "gpa": "3.03"
+            },
+            {
+                "school": "Tennessee Technological University",
+                "degree": "Bachelor of Science, Business Administration",
+                "graduated": "December 2002",
+                "gpa": "2.5"
+            }
+            
+        ],
+        "work": [
+            {
+                "company": "East Tennessee State University",
+                "title": "Web Developer",
+                "years": "April 2016 - Present"
+            },
+            {
+                "company": "East Tennessee State University",
+                "title": "Adjunct Faculty",
+                "years": "August 2017 - Present"
+            },
+            {
+                "company": "East Tennessee State University",
+                "title": "Information Systems Analyst II",
+                "years": "September 2007 to April 2016"
+            }
+        ],
+        "specialities": [
+            {
+                "type": "Agile / Language",
+                "description": "Experience with various programming/scripting"
+            },
+            {
+                "type": "Mobile/Responsive Design",
+                "description": "Experience building responsive and mobile websites and applications"
+            },
+            {
+                "type": "Full Stack Development",
+                "description": "Extensive experience with front-end development under strict usability guidelines as well as experience building complete backend systems and infrastructure."
+            }
+        ]
+    }
+    
+
+}

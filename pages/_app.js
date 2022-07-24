@@ -1,18 +1,10 @@
 import { useEffect } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/globals.css'
-import '../styles/layout.css';
-import '../styles/header.css';
+import '../styles/index.css';
 
 function Portfolio({ Component, pageProps }) {
   
-  useEffect(() => {
-    import('bootstrap/dist/js/bootstrap.js')
-  }, []);
-
-
   return (
-    <div className="container-fluid">
+    <div className="container-fluid p-0">
       <Component {...pageProps} />
      </div>
   )
