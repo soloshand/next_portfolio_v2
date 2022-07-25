@@ -5,9 +5,7 @@ export default function Layout({children}) {
 
     return(
         <div className="container-fluid page-container">
-            <Header />
             {children}
-            <Footer />
         </div>
     )
 }

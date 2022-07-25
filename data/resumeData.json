@@ -17,6 +17,11 @@
              "name": "facebook",
              "url": "https://www.facebook.com/stephen.fields.754",
              "classname": "fa fa-facebook"
+            },
+            {
+                "name": "email",
+                "url": "mailto:sfields0879@gmail.com?subject=The%20subject%20of%20the%20mail",
+                "classname": "fa fa-envelope"
             }
          ]
     },
