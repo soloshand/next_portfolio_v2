@@ -21,7 +21,13 @@ export default function Header(data) {
 
             <div className="row banner">
              <div className="banner-text">
-                <h1 className="responsive-headline">I'm {name}</h1>
+                <h1 className="responsive-headline">I&apos;m {name}</h1>
+                <hr />
+                <div>
+                    <span style={{fontSize: "2rem", color: "#fff"}}>
+                        Web &amp; Application Developer; Tech Enthusiast, General Geek
+                    </span>
+                </div>
                 <hr />
                 <ul className="social">
                    {networks}

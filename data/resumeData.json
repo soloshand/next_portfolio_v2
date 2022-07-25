@@ -2,11 +2,11 @@
     "main": {
         "name": "Stephen Fields",
         "occupation": "Full-Stack Web Developer",
-        "description": "I enjoy bringing ideas to life in the browser",
+        "description": "I am a software &amp; Web Developer by trade based out the Tri-Cities in Northeast Tennessee. Currently, I am working as a web developer at <a href='https://www.etsu.edu/ehome'>East Tennessee State University</a>. In the past I have also worked as a systems analyst, assisting in maintaining a back-end ERP system that is used by the university to support its day-to-day activities.",
         "profilePic": "/images/profile_pic.jpg",
         "email": "sfields0879@gmail.com",
         "website": "https://seajsfields.com",
-        "resumedownload": "/documents/resume/resume_fields_stephen.pdf",
+        "resumedownload": "/documents/resume/fields_stephen_resume.pdf",
         "social": [
             {
              "name": "LinkedIn",

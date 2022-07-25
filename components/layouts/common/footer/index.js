@@ -18,8 +18,6 @@ export default function Footer(data) {
   //get current year
     var currYear = new Date().getFullYear()
 
-    console.log(data);
-
     return (
 
       <footer>

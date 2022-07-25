@@ -1,4 +1,5 @@
 import {Container, Row, Col } from 'react-bootstrap';
+import Image from 'next/image';
 
 export default function Portfolio() {
 
@@ -10,7 +11,8 @@ export default function Portfolio() {
         <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href="https://www.etsu.edu/ehome/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/thumbnail_etsu_website.png" alt="ETSU Main Website" /></a>
+              <a href="https://www.etsu.edu/ehome/" className="image fit thumb" target="_blank" rel="noopener noreferrer">
+                <img src="images/portfolio/thumbnail_etsu_website.png" alt="ETSU Main Website" /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>ETSU Website</h3>
@@ -73,7 +75,7 @@ export default function Portfolio() {
                 <div className="text-wrapper">
                   <h3>ETSU Search Application</h3>
                   <p>
-                    The ETSU Search application was a rebuild and upgrade of the original ASP.Net application that had to be moved from an older Window's based server to the university's 
+                    The ETSU Search application was a rebuild and upgrade of the original ASP.Net application that had to be moved from an older Window&apos;s based server to the university&apos;s 
                     new Linux based server. The application required a refit to also include the ability to not only search for information within the university, but it also required an 
                     addition that allow users to search for faculty, staff and students. The students search was required to be protected from off campus personnel and incorporated an 
                     authentication system to accomplish that goal. The search itself targets internal university resources for users to view, while also including additional information 

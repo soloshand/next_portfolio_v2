@@ -1,6 +1,5 @@
 import {Container, Row, Col} from 'react-bootstrap';
-//import fsPromises from 'fs/promises';
-//import path from 'path';
+import Image from 'next/image';
 
 export default function About (data) {
 
@@ -9,18 +8,18 @@ export default function About (data) {
         var email = data.about.email;
         var profilePhoto = data.about.profilePic;
         var resume = data.about.resumedownload;
+        var description = data.about.description;
     }
     return (
 
         <section id="about">
             <Row>
             <div className="three columns">
-                    <img className="profile-pic" src={profilePhoto} alt="Stephen Fields Profile Picture" />
+                    <Image height="150" width="150" className="profile-pic" src={profilePhoto} alt="Stephen Fields Profile" />
                 </div> 
                 <div className="nine columns main-col">
                     <h2>About Me</h2>  
-                        <p>I am a software developer by trade based out the Tri-Cities in Northeast Tennessee. Currently, I am working as a web developer at <a href="https://www.etsu.edu/ehome">East Tennessee State University</a>. In the past I have also worked as a systems analyst, assisting in maintaining a back-end ERP system that is used by the university to support its day-to-day activities.</p>
-
+                        <p dangerouslySetInnerHTML={{__html: description}} />
                         <Row>
                         <div className="columns contact-details">
                             <h2>Contact Details</h2>
