@@ -49,14 +49,19 @@
         ],
         "work": [
             {
+                "company": "University of Tennessee",
+                "title": "Software Analyst",
+                "years": "September 2022 - Present"
+            },
+            {
                 "company": "East Tennessee State University",
                 "title": "Web Developer",
-                "years": "April 2016 - Present"
+                "years": "April 2016 - September 2022"
             },
             {
                 "company": "East Tennessee State University",
                 "title": "Adjunct Faculty",
-                "years": "August 2017 - Present"
+                "years": "August 2017 - December 2022"
             },
             {
                 "company": "East Tennessee State University",
