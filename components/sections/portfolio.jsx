@@ -12,7 +12,7 @@ export default function Portfolio() {
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
               <a href="https://www.etsu.edu/ehome/" className="image fit thumb" target="_blank" rel="noopener noreferrer">
-                <img src="images/portfolio/thumbnail_etsu_website.png" alt="ETSU Main Website" /></a>
+                <Image src="/images/portfolio/thumbnail_etsu_website.png" alt="ETSU Main Website" width={339} height={182} /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>ETSU Website</h3>
@@ -43,7 +43,8 @@ export default function Portfolio() {
           </div>
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href="https://www.etsu.edu/paying-for-college/estimator/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/cost_estimator_thumb.png" alt="ETSU Cost Estimator" /></a>
+              <a href="https://www.etsu.edu/paying-for-college/estimator/" className="image fit thumb" target="_blank" rel="noopener noreferrer">
+                <Image src="/images/portfolio/cost_estimator_thumb.png" alt="ETSU Cost Estimator" width={339} height={182} /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>ETSU Cost Estimator</h3>
@@ -70,7 +71,8 @@ export default function Portfolio() {
           </div>
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href="https://www.etsu.edu/search/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/etsu_search_app_thumb.png" alt="ETSU Search Application" /></a>
+              <a href="https://www.etsu.edu/search/" className="image fit thumb" target="_blank" rel="noopener noreferrer">
+                <Image src="/images/portfolio/etsu_search_app_thumb.png" alt="ETSU Search Application" width={339} height={182} /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>ETSU Search Application</h3>
@@ -105,7 +107,8 @@ export default function Portfolio() {
           </div>
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href=" https://diamondexchangetn.com/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/diamond_exchange_thumb.png" alt="Diamond Exchange - Johnson City, TN" /></a>
+              <a href=" https://diamondexchangetn.com/" className="image fit thumb" target="_blank" rel="noopener noreferrer">
+                <Image src="/images/portfolio/diamond_exchange_thumb.png" alt="Diamond Exchange - Johnson City, TN" width={339} height={182} /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>Diamond Exchange - Johnson City</h3>
@@ -131,7 +134,8 @@ export default function Portfolio() {
           </div>
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href="#portfolio" className="image fit thumb" rel="noopener noreferrer"><img src="images/portfolio/webadmin_thumb.png" alt="ETSU WebAdmin System" /></a>
+              <a href="#portfolio" className="image fit thumb" rel="noopener noreferrer">
+                <Image src="/images/portfolio/webadmin_thumb.png" alt="ETSU WebAdmin System" width={339} height={182} /></a>
               <div className="art-description">
                 <div className="text-wrapper">
                   <h3>ETSU WebAdmin Application</h3>
