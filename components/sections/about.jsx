@@ -1,5 +1,4 @@
 import {Container, Row, Col} from 'react-bootstrap';
-import Image from 'next/image';
 
 export default function About (data) {
 
@@ -15,7 +14,7 @@ export default function About (data) {
         <section id="about">
             <Row>
             <div className="three columns">
-                    <Image height="150" width="150" className="profile-pic" src={profilePhoto} alt="Stephen Fields Profile" />
+                    <img height="150" width="150" className="profile-pic" src={profilePhoto} alt="Stephen Fields Profile" />
                 </div> 
                 <div className="nine columns main-col">
                     <h2>About Me</h2>  
