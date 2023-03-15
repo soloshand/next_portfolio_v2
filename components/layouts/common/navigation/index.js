@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import {Container, Col, Row, Navbar, Nav, NavDropdown, Form, FormControl, Button} from 'react-bootstrap';
 import { navLinks } from "../../../../data/navigation"
 import { useRouter } from "next/router"
