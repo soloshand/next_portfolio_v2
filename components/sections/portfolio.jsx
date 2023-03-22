@@ -67,6 +67,37 @@ export default function Portfolio() {
               </div>
             </article>
           </div>
+          
+          <div className="article-wrapper">
+            <article className="col-12 col-12-xsmall work-item">
+              <a href="https://www.etsu.edu/map-parking/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/etsu_parking_map_thumb.png" alt="ETSU Parking Map Application" /></a>
+              <div className="art-description">
+                <div className="text-wrapper">
+                  <h3>ETSU Parking Map Application</h3>
+                  <p>
+                    The ETSU Parking Map application is an interactive parking map that provides real-time information regarding available parking by number of spaces and available
+                    lots to students at ETSU. This is a web and mobile app based tool designed to assist students who commute and live on campus to find available parking easily.
+                  </p>
+                </div>
+                <ul className="actions">
+                  <div className="actions-wrapper">
+                    <li><a href="https://www.etsu.edu/map-parking/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                  </div>
+                  <hr className="port-seperator" />
+                  <div className="languages">
+                    <i className="devicon-react-original portfolio-lan"></i>
+                    <i className="devicon-javascript-plain technology portfolio-lan"></i>
+                    <i className="devicon-php-plain technology portfolio-lan"></i>
+                    <i className="devicon-css3-plain-wordmark technology portfolio-lan"></i>
+                    <i className="devicon-firebase-plain technology portfolio-lan"></i>
+                    <i className="devicon-nodejs-plain-wordmark technology portfolio-lan"></i>
+                  </div>
+                  <hr className="port-seperator" />
+                </ul>
+              </div>
+            </article>
+          </div>
+          
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
               <a href="https://www.etsu.edu/search/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/etsu_search_app_thumb.png" alt="ETSU Search Application" /></a>
