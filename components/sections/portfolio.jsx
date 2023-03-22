@@ -135,32 +135,6 @@ export default function Portfolio() {
           </div>
           <div className="article-wrapper">
             <article className="col-12 col-12-xsmall work-item">
-              <a href=" https://diamondexchangetn.com/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/diamond_exchange_thumb.png" alt="Diamond Exchange - Johnson City, TN" /></a>
-              <div className="art-description">
-                <div className="text-wrapper">
-                  <h3>Diamond Exchange - Johnson City</h3>
-                  <p>This is a site redesign, rebranding effort, and migration from a previous hosting platform Diamond Exchange located in Johnson City, TN.</p>
-                  <p>The owners wanted an updated site that was more modern and functional, along with a way to manage the content of the website themselves without having to hire a full-time developer. 
-                    The solution we decided upon was a content management system (CMS) with a custom template unique to the clients needs.
-                </p>
-                </div>
-                <ul className="actions">
-                  <div className="actions-wrapper">
-                    <li><a href="https://diamondexchangetn.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                  </div>
-                  <hr className="port-seperator" />
-                  <div className="languages">
-                    <i className="devicon-wordpress-plain-wordmark technolog portfolio-lan"></i>
-                    <i className="devicon-php-plain technology portfolio-lan"></i>
-                    <i className="devicon-css3-plain-wordmark technology portfolio-lan"></i>
-                  </div>
-                  <hr className="port-seperator" />
-                </ul>
-              </div>
-            </article>
-          </div>
-          <div className="article-wrapper">
-            <article className="col-12 col-12-xsmall work-item">
               <a href="#portfolio" className="image fit thumb" rel="noopener noreferrer"><img src="images/portfolio/webadmin_thumb.png" alt="ETSU WebAdmin System" /></a>
               <div className="art-description">
                 <div className="text-wrapper">
@@ -185,6 +159,32 @@ export default function Portfolio() {
                     <i className="devicon-postgresql-plain-wordmark technology portfolio-lan"></i>
                   </div>
 
+                  <hr className="port-seperator" />
+                </ul>
+              </div>
+            </article>
+          </div>
+          <div className="article-wrapper">
+            <article className="col-12 col-12-xsmall work-item">
+              <a href=" https://diamondexchangetn.com/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/portfolio/diamond_exchange_thumb.png" alt="Diamond Exchange - Johnson City, TN" /></a>
+              <div className="art-description">
+                <div className="text-wrapper">
+                  <h3>Diamond Exchange - Johnson City</h3>
+                  <p>This is a site redesign, rebranding effort, and migration from a previous hosting platform for Diamond Exchange located in Johnson City, TN.</p>
+                  <p>The owners wanted an updated site that was more modern and functional, along with a way to manage the content of the website themselves without having to hire a full-time developer. 
+                    The solution we decided upon was a content management system (CMS) with a custom template unique to the clients needs.
+                </p>
+                </div>
+                <ul className="actions">
+                  <div className="actions-wrapper">
+                    <li><a href="https://diamondexchangetn.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                  </div>
+                  <hr className="port-seperator" />
+                  <div className="languages">
+                    <i className="devicon-wordpress-plain-wordmark technolog portfolio-lan"></i>
+                    <i className="devicon-php-plain technology portfolio-lan"></i>
+                    <i className="devicon-css3-plain-wordmark technology portfolio-lan"></i>
+                  </div>
                   <hr className="port-seperator" />
                 </ul>
               </div>
