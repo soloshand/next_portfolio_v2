@@ -24,7 +24,7 @@ export default function Portfolio() {
                 </div>
                 <ul className="actions">
                   <div className="actions-wrapper">
-                    <li><a href="https://www.etsu.edu/ehome/" className="button project-button port-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://www.etsu.edu/ehome/" className="button project-button port-button" target="_blank" rel="noopener noreferrer">View Site</a></li>
                   </div>
                   <hr className="port-seperator" />
                   <div className="languages">
@@ -53,7 +53,7 @@ export default function Portfolio() {
                 </div>
                 <ul className="actions">
                   <div className="actions-wrapper">
-                    <li><a href="https://www.etsu.edu/paying-for-college/estimator/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://www.etsu.edu/paying-for-college/estimator/" className="button project-button" target="_blank" rel="noopener noreferrer">View Site</a></li>
                   </div>
                   <hr className="port-seperator" />
                   <div className="languages">
@@ -81,7 +81,7 @@ export default function Portfolio() {
                 </div>
                 <ul className="actions">
                   <div className="actions-wrapper">
-                    <li><a href="https://www.etsu.edu/map-parking/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://www.etsu.edu/map-parking/" className="button project-button" target="_blank" rel="noopener noreferrer">View Site</a></li>
                   </div>
                   <hr className="port-seperator" />
                   <div className="languages">
@@ -118,7 +118,7 @@ export default function Portfolio() {
                 </div>
                 <ul className="actions">
                   <div className="actions-wrapper">
-                    <li><a href="https://www.etsu.edu/search/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://www.etsu.edu/search/" className="button project-button" target="_blank" rel="noopener noreferrer">View Site</a></li>
                   </div>
                   <hr className="port-seperator" />
                   <div className="languages">
@@ -177,7 +177,7 @@ export default function Portfolio() {
                 </div>
                 <ul className="actions">
                   <div className="actions-wrapper">
-                    <li><a href="https://diamondexchangetn.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://diamondexchangetn.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Site</a></li>
                   </div>
                   <hr className="port-seperator" />
                   <div className="languages">
