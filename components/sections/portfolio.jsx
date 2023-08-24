@@ -16,9 +16,9 @@ export default function Portfolio() {
                 <div className="text-wrapper">
                   <h3>ETSU Website</h3>
                   <p>
-                  The ETSU University Web site is maintained by a group of web developers at ETSU of which I am a part of. The website is built on a multi-faceted technology stack 
-                  containing full-stack sites. The university site is the main entry point for many current and potential university students throughout Northeast Tennessee Region. 
-                  I have developed and assisted in building infrastructure for the back-end along with developing front-facing components and enhancements that are heavily customized 
+                  The ETSU University Web site is maintained by a group of web developers at ETSU. The website is built on a multi-faceted technology stack 
+                  containing full-stack sites within a content-based management system. The university site is the main entry point for many current and potential university students throughout Northeast Tennessee Region. 
+                  I developed and assisted in building infrastructure for the back-end along with developing front-facing components and enhancements that are heavily customized 
                   from the baseline CMS implementation.
                   </p>
                 </div>
