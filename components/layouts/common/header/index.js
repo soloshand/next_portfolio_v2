@@ -25,7 +25,7 @@ export default function Header(data) {
                 <hr />
                 <div>
                     <span style={{fontSize: "2rem", color: "#fff"}}>
-                        Web &amp; Application Developer; Tech Enthusiast, General Geek
+                        Web &amp; Application Developer; Tech Enthusiast
                     </span>
                 </div>
                 <hr />
