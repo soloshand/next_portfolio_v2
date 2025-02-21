@@ -105,6 +105,7 @@
  
  /*Project Buttons*/
  .project-button {
+   border-radius: 5px;
     margin: 0;
  }
  
