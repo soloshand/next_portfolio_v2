@@ -2,6 +2,8 @@ import {Container, Row, Col} from 'react-bootstrap';
 
 export default function About (data) {
 
+    //Test netlify deployment
+
      if(data) {
         var name = data.about.name;
         var email = data.about.email;
